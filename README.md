@@ -1,6 +1,19 @@
-# Software-Testing
-# - is the process of figuring out if the software is correct by looking at all of its properties and evaluating how software components run to find bugs, errors or other problems.
+# IN THIS PROJECT: 
 
- # SDLC(Software Development Life Cycle)
- ## SDLC Phases
- ## API 
+# Software-Testing
+## SDLC(Software Development Life Cycle)
+## SDLC Phases
+## STLC (Software Testing Life Cycle)
+
+# Rest API Manual Testing
+## Client-Server Architecture 
+## Web-services
+## Rest based services
+## JSON
+## POSTMAN
+## HTTP Methods 
+## Curl
+## Test cases
+
+ 
+
